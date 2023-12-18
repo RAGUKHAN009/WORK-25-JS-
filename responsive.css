@@ -1,0 +1,2125 @@
+@media (min-width: 2560px) {
+    .headerButtons {
+        font-size: 1.8rem;
+        gap: 40px;
+    }
+
+    main h1 {
+        font-size: 5rem;
+
+    }
+
+    main p {
+        font-size: 2.5rem;
+        word-spacing: 2.5px;
+        letter-spacing: 1.5px;
+    }
+
+    .horizontalBreak h3 {
+        font-size: 22px;
+    }
+
+    fieldset legend {
+        font-size: 1.5rem;
+    }
+
+    select {
+        font-size: 1.8rem;
+    }
+
+    .input1 {
+        font-size: 1.8rem;
+        gap: 10px;
+    }
+
+    .input2 {
+        font-size: 1.8rem;
+        gap: 10px;
+    }
+
+    .heroButton {
+        font-size: 2rem;
+    }
+
+    .FooterBut {
+        font-size: 1rem;
+    }
+
+    .FooterBut:hover {
+        font-size: 1.5rem;
+    }
+
+    .two h1 {
+        font-size: 2rem;
+    }
+
+    .two p {
+        font-size: 1.5rem;
+    }
+
+    .three {
+        font-size: 1.8rem;
+    }
+
+    .three h1 {
+        font-size: 2rem;
+    }
+
+    .five button {
+        font-size: 1.5rem;
+    }
+
+    .fa-regular,
+    .far {
+        font-size: 2.4rem;
+    }
+
+    .seven span {
+        font-size: 2.2rem;
+    }
+
+    .four button {
+        font-size: 2.4rem;
+    }
+
+    .paginationAlign ul {
+        font-size: 2rem;
+    }
+
+    .firstPagenation {
+        width: 50px;
+        height: 50px;
+    }
+
+    .pagenationItem {
+        width: 50px;
+        height: 50px;
+    }
+
+    .worksCont1 img {
+        height: 100%;
+    }
+
+    .Body2Heading {
+        font-size: 70px;
+    }
+
+    .worksText1 h1 {
+        font-size: 30px;
+    }
+
+    .worksText1 p {
+        font-size: 25px;
+    }
+
+    .worksText2 h1 {
+        font-size: 40px;
+    }
+
+    .worksText2 p {
+        font-size: 25px;
+    }
+
+    .worksText3 h1 {
+        font-size: 40px;
+    }
+
+    .worksText3 p {
+        font-size: 25px;
+    }
+
+    .worksContButt button {
+        font-size: 1.5rem;
+    }
+
+    .body3Cont1 h1 {
+        font-size: 70px;
+    }
+
+    .cartCont1 h1 {
+        font-size: 40px;
+    }
+
+    .cartCont1 p {
+        font-size: 25px;
+    }
+
+    .cartContBut1 button {
+        font-size: 1.8rem;
+    }
+
+    .body3cont2text h1 {
+        font-size: 40px;
+    }
+
+    .body3cont2text p {
+        font-size: 25px;
+    }
+
+    .body4ContSecText h1 {
+        font-size: 55px;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 40px;
+    }
+
+    .Body4GridCart p {
+        font-size: 25px;
+    }
+
+    .body5Sec h1 {
+        font-size: 55px;
+    }
+
+    .body5Sec p {
+        font-size: 35px;
+    }
+
+    .leftSide h1 {
+        font-size: 40px;
+    }
+
+    .leftSide p {
+        font-size: 25px;
+    }
+
+    .leftSide span {
+        font-size: 20px;
+    }
+
+    .fiveStar {
+        font-size: 2rem;
+    }
+
+    .r-1 img {
+        width: 16%;
+    }
+
+    .r-2 img {
+        width: 16%;
+    }
+
+    .r-3 img {
+        width: 16%;
+    }
+
+    .rowText h1 {
+        font-size: 40px;
+    }
+
+    .rowText p {
+        font-size: 25px;
+    }
+
+    .oneBut {
+        width: 40%;
+        height: 60%;
+        font-size: 2rem;
+    }
+
+    .twoBut {
+        width: 40%;
+        height: 60%;
+        font-size: 2rem;
+    }
+
+    .footerTopLeft img {
+        width: 35%;
+    }
+
+    .footerTopLeft p {
+        letter-spacing: 2.2px;
+        font-size: 1.5rem;
+    }
+
+    .footerTopLogos {
+        padding-top: 3%;
+        font-size: 3.5rem;
+    }
+
+    .footerTopRight ul {
+        font-size: 20px;
+    }
+
+    .footerContendEnd {
+        font-size: 2rem;
+    }
+
+    .footerContEnd p {
+        font-size: 20px;
+    }
+
+
+}
+
+
+@media (min-width: 1440px) and (max-width:2559px){
+    .bodyContend {
+        gap: 30px 60px;
+    }
+
+    .worksText3 h1 {
+        font-size: 20px;
+    }
+
+    .worksContButt button {
+        width: 50%;
+    }
+
+    .body3cont2text {
+        width: 70%;
+    }
+
+    .oneBut {
+        width: 40%;
+        height: 60%;
+    }
+
+    .twoBut {
+        width: 40%;
+        height: 60%;
+    }
+
+    .footerTopLogos {
+        width: 40%;
+    }
+}
+
+
+@media (min-width: 1025px) and (max-width:1439px){
+    .button1 {
+        width: 40%;
+        height: 50%;
+    }
+
+    .button2 {
+        width: 40%;
+        height: 50%;
+    }
+
+    main h1 {
+        width: 50%;
+        font-size: 2.6rem;
+    }
+
+    main p {
+        font-size: 15px;
+    }
+
+    .horizontalBreak h3 {
+        font-size: 10px;
+    }
+
+    .horizontalBreak {
+        width: 90%;
+    }
+
+    .formCont {
+        width: 85%;
+    }
+
+    .heroFooterButton {
+        width: 30%;
+    }
+
+    .bodyContend {
+        gap: 25px 25px;
+    }
+
+    .three {
+        font-size: 8px;
+    }
+
+    .six {
+        font-size: 14px;
+    }
+
+    .seven {
+        font-size: 14px;
+    }
+
+    .cartContend {
+        gap: 14px 3px;
+    }
+
+    .worksText1 {
+        width: 40%;
+    }
+
+    .worksCont2Sec {
+        width: 83%;
+    }
+
+    .worksContDis {
+        width: 80%;
+    }
+
+    .worksContDis img {
+        height: 90%;
+    }
+
+    .worksText3 {
+        width: 57%;
+    }
+
+    .worksContButt button {
+        width: 70%;
+    }
+
+    .body3CartCont {
+        width: 90%;
+    }
+
+    .body3CartCont {
+        justify-content: space-evenly;
+    }
+
+    .body3cont2sec {
+        width: 100%;
+    }
+
+    .body4GridSec {
+        width: 90%;
+        height: 80%;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 18px;
+    }
+
+    .body4Icon {
+        width: 19%;
+        font-size: 2rem;
+    }
+
+    .Body4GridCart p {
+        font-size: 13px;
+    }
+
+    .body5Sec {
+        width: 90%;
+    }
+
+    .leftSide {
+        width: 60%;
+    }
+
+    .leftSide span {
+        font-size: 12px;
+    }
+
+    .leftSide h1 {
+        font-size: 18px;
+        margin-top: 10vh;
+    }
+
+    .leftSide p {
+        font-size: 14px;
+    }
+
+    .rowText h1 {
+        font-size: 16px;
+    }
+
+    .rowText p {
+        font-size: 12px;
+    }
+
+    .oneBut {
+        width: 40%;
+    }
+
+    .twoBut {
+        width: 40%;
+    }
+
+    .footerTopLogos {
+        width: 60%;
+    }
+
+    .footerContEnd p {
+        width: 55%;
+        font-size: 10px;
+    }
+
+    .FooterImg {
+        width: 35%;
+    }
+}
+
+@media (min-width: 768px) and (max-width:1024px){
+    .headerLogo {
+        width: 25%;
+    }
+
+    .headerButtons {
+        width: 40%;
+        height: 90%;
+        gap: 10px;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main h1 {
+        width: 70%;
+        text-align: center;
+    }
+
+    main p {
+        font-size: 1.2rem;
+    }
+
+    .horizontalBreak {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        height: 5%;
+    }
+
+    .horizontalBreak h3 {
+        font: 1.3rem;
+        color: #FFF;
+        height: 100%;
+        position: absolute;
+        top: 10%;
+        left: 43%;
+        text-align: center;
+        background-color: black;
+    }
+
+    .line {
+        width: 100%;
+    }
+
+    .formCont {
+        width: 100%;
+    }
+
+    .heroFooterButton {
+        width: 100%;
+    }
+
+    .bodyCont {
+        width: 100%;
+        height: 190vh;
+    }
+
+    .bodySec {
+        width: 90%;
+    }
+
+    .bodyContend {
+        width: 100%;
+        height: 90%;
+        display: grid;
+        gap: 30px 30px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+
+    .body2Contend {
+        width: 90%;
+        position: relative;
+    }
+
+    .three {
+        font-size: 10px;
+    }
+
+    .worksCont {
+        width: 100%;
+    }
+
+    .worksText1 {
+        width: 60%;
+    }
+
+    .worksCont2Sec {
+        width: 100%;
+        flex-direction: row-reverse;
+    }
+
+    .worksContButt {
+        display: none;
+        width: 0%;
+    }
+
+    .worksContDis {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .worksText3 {
+        width: 100%;
+    }
+
+    .body3CartCont {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .loaderIcon {
+        left: 23%;
+    }
+
+    .MicIcon {
+        left: 69.5%;
+    }
+
+    .cartCont1 h1 {
+        font-size: 1.8rem;
+    }
+
+    .cartCont1 p {
+        font-size: 14px;
+    }
+
+    .cartContBut1 {
+        width: 90%;
+    }
+
+    .body3cont2sec {
+        width: 100%;
+    }
+
+    .body3cont2text {
+        width: 75%;
+    }
+
+    .body4GridSec {
+        width: 90%;
+    }
+
+    .body4Icon {
+        width: 27%;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 16px;
+    }
+
+    .Body4GridCart p {
+        font-size: 13px;
+    }
+
+    .body5Sec {
+        width: 90%;
+    }
+
+    .body5Cont {
+        height: 130vh;
+    }
+
+    .body5CartSec {
+        flex-direction: column;
+    }
+
+    .leftSide {
+        width: 100%;
+        height: 60%;
+    }
+
+    .rightSide {
+        width: 100%;
+        height: 40%;
+        margin-top: 5%;
+        align-items: center;
+    }
+
+    .leftSideCart1 img {
+        top: 21vh;
+    }
+
+    .leftSideCart2 img {
+        top: 21vh;
+    }
+
+    .leftSide h1 {
+        font-size: 20px;
+        margin-top: 5vh
+    }
+
+    .leftSide span {
+        width: 80%;
+        height: 70%;
+        font-size: 14px;
+    }
+
+    .r-1,
+    .r-2,
+    .r-3,
+    .r-4 {
+        width: 30%;
+        height: 20vh;
+    }
+
+    .r-1 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-2 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-3 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .oneBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .twoBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .rowText h1 {
+        font-size: 16px;
+    }
+
+    .rowText p {
+        font-size: 10px;
+    }
+
+    .rowText {
+        width: 60%;
+    }
+
+    .footerContendTop {
+        flex-direction: column;
+    }
+
+    .footerTopLogos {
+        width: 100%;
+    }
+
+    .footerContMainAlign {
+        width: 90%;
+    }
+
+    .footerTopLeft {
+        width: 30%;
+    }
+
+    .footerTopRight {
+        width: 100%;
+    }
+
+    .footerContEnd p {
+        font-size: 7px;
+    }
+
+    .FooterImg {
+        width: 30%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+
+@media screen and (min-width:426px) and (max-width: 768px) {
+    .heroContend {
+        height: 100%;
+        width: 90%;
+    }
+
+    .headerLogo {
+        width: 40%;
+    }
+
+    .headerButtons {
+        width: 40%;
+    }
+
+    main h1 {
+        width: 100%;
+        text-align: center;
+        height: 25%;
+        font-size: 25px;
+    }
+
+    main p {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .horizontalBreak {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        height: 5%;
+    }
+
+    .horizontalBreak h3 {
+        font: 1.3rem;
+        color: #FFF;
+        height: 100%;
+        position: absolute;
+        top: 10%;
+        left: 34%;
+        width: 30%;
+        text-align: center;
+        background-color: black;
+    }
+
+    .line {
+        width: 100%;
+    }
+
+    .formCont {
+        width: 100%;
+    }
+
+    .input1 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .input2 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .heroFooterButton {
+        width: 100%;
+    }
+
+    .bodyCont {
+        width: 100%;
+        height: 190vh;
+    }
+
+    .bodySec {
+        width: 90%;
+        height: 98%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+
+    .BodyHeading {
+        height: 10vh;
+        display: flex;
+        align-items: center;
+    }
+
+    .bodyContend {
+        width: 100%;
+        height: 145vh;
+        display: grid;
+        gap: 34px 36px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+
+    .pagination {
+        height: 10vh;
+    }
+
+
+
+
+
+
+
+
+    .body2Contend {
+        width: 90%;
+        position: relative;
+    }
+
+    .three {
+        font-size: 10px;
+    }
+
+    .worksCont {
+        width: 100%;
+    }
+
+    .worksCont1 img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksText1 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 20px;
+    }
+
+    .worksText1 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+    .worksCont2Sec img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksContDis img {
+        width: 40%;
+        height: auto;
+    }
+
+
+    .worksText1 {
+        width: 60%;
+    }
+
+
+    .worksText2 {
+        width: 66%;
+    }
+
+    .worksText2 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 20px;
+    }
+
+    .worksText2 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+
+    .worksCont2Sec {
+        width: 100%;
+        flex-direction: row-reverse;
+    }
+
+    .worksContButt {
+        display: none;
+        width: 0%;
+    }
+
+    .worksContDis {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .worksText3 {
+        width: 100%;
+    }
+
+    .worksText3 h1 {
+        width: 100%;
+        height: 13%;
+        font-size: 18px;
+    }
+
+    .worksText3 p {
+        font-size: 10px;
+        height: 61%;
+    }
+
+    .body3Cart1 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .body3Cart2 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .body3CartCont {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .body3Cont1 h1 {
+        font-size: 30px;
+    }
+
+    .loaderIcon {
+        top: 18.5%;
+        left: 69%;
+    }
+
+    .MicIcon {
+        left: 17%;
+        top: 61%;
+    }
+
+    .cartCont1 {
+        height: 50%;
+        justify-content: center;
+    }
+
+    .cartCont1 h1 {
+        font-size: 10px;
+    }
+
+    .cartCont1 p {
+        font-size: 8px;
+    }
+
+    .cartContBut1 {
+        width: 90%;
+    }
+
+    .cartContBut1 button {
+        font-size: 10px;
+    }
+
+    .body3cont2sec {
+        width: 100%;
+    }
+
+    .body3cont2text {
+        width: 65%;
+    }
+
+    .body3cont2text h1 {
+        font-size: 14px;
+        height: 4%;
+    }
+    .body3cont2text p {
+        height: 40%;
+        font-size: 10px;
+    }
+
+    .body4ContSecText h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 26px;
+    }
+
+    .body4GridSec {
+        height: 90%;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    .body4Icon {
+        width: 27%;
+        font-size: 1.8rem;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 10px;
+    }
+
+    .Body4GridCart p {
+        font-size: 10px;
+    }
+
+    .body5Sec {
+        width: 90%;
+    }
+
+    .body5Sec h1 {
+        color: #272727;
+        font-size: 25px;
+        text-align: center;
+        height: 6%;
+    }
+
+    .body5Sec p {
+        color: #272727;
+        font-size: 14px;
+        text-align: center;
+        height: 12%;
+    }
+
+    .body5Cont {
+        height: 130vh;
+    }
+
+    .body5CartSec {
+        flex-direction: column;
+    }
+
+    .leftSide {
+        width: 100%;
+        height: 60%;
+    }
+
+    .rightSide {
+        width: 100%;
+        height: 40%;
+        margin-top: 5%;
+        align-items: center;
+    }
+    .leftSideCart1,
+    .leftSideCart2 {
+        width: 47%;
+    }
+
+    .leftSideCart1 img {
+        top: 13vh;
+        width: 20%;
+    }
+
+    .leftSideCart2 img {
+        top: 13vh;
+        width: 20%;
+    }
+
+    .leftSide h1 {
+        font-size: 14px;
+        margin-top: 6vh;
+    }
+    .leftSide h1 {
+        font-size: 8px;
+    }
+
+    .leftSide span {
+        width: 90%;
+        height: 70%;
+        font-size: 8px;
+    }
+
+    .r-1,
+    .r-2,
+    .r-3,
+    .r-4 {
+        width: 65%;
+    }
+
+    .r-1 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-2 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-3 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .oneBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .twoBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .rowText h1 {
+        font-size: 16px;
+    }
+
+    .rowText p {
+        font-size: 10px;
+    }
+
+    .rowText {
+        width: 60%;
+    }
+
+    .footerContendTop {
+        flex-direction: column;
+    }
+
+    .footerTopLogos {
+        width: 100%;
+    }
+
+    .footerContMainAlign {
+        width: 90%;
+    }
+
+    .footerTopLeft {
+        width: 100%;
+        align-items: center;
+    }
+
+    .footerTopRight {
+        width: 100%;
+    }
+
+    .footerTopRight ul {
+        width: 100%;
+        height: 75%;
+        display: flex;
+        list-style: none;
+        justify-content: end;
+        align-items: center;
+        font-size: 7px;
+        color: white;
+    }
+
+    .footerContendEnd {
+        font-size: 10px;
+    }
+
+    .footerContEnd p {
+        font-size: 5px;
+    }
+
+    .FooterImg {
+        width: 30%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+}
+
+@media screen and (min-width:375px) and (max-width: 426px) {
+    .heroContend {
+        height: 100%;
+        width: 90%;
+    }
+
+    .headerLogo {
+        width: 40%;
+    }
+
+    .headerButtons {
+        width: 40%;
+    }
+
+    main h1 {
+        width: 100%;
+        text-align: center;
+        height: 25%;
+        font-size: 25px;
+    }
+
+    main p {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .horizontalBreak {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        height: 5%;
+    }
+
+    .horizontalBreak h3 {
+        font: 1.3rem;
+        color: #FFF;
+        height: 100%;
+        position: absolute;
+        top: 10%;
+        left: 34%;
+        width: 30%;
+        text-align: center;
+        background-color: black;
+    }
+
+    .line {
+        width: 100%;
+    }
+
+    .formCont {
+        width: 100%;
+    }
+
+    .input1 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .input2 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .heroFooterButton {
+        width: 100%;
+    }
+
+    .bodyCont {
+        height: 300vh;
+    }
+
+    .bodySec {
+        width: 90%;
+        height: 98%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+
+    .BodyHeading {
+        height: 10vh;
+        display: flex;
+        align-items: center;
+    }
+
+    .bodyContend {
+        width: 100%;
+        height: 270vh;
+        display: grid;
+        gap: 30px 30px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+
+    .pagination {
+        height: 10vh;
+        margin-top: 15vh;
+        /* margin-bottom: 5vh; */
+    }
+
+
+
+
+
+
+
+
+    .body2Contend {
+        width: 90%;
+        position: relative;
+    }
+
+    .three {
+        font-size: 10px;
+    }
+
+    .worksCont {
+        width: 100%;
+    }
+
+    .worksCont1 img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksText1 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 18px;
+    }
+
+    .worksText1 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+    .worksCont2Sec img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksContDis img {
+        width: 40%;
+        height: auto;
+    }
+
+
+    .worksText1 {
+        width: 60%;
+    }
+
+
+    .worksText2 {
+        width: 66%;
+    }
+
+    .worksText2 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 20px;
+    }
+
+    .worksText2 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+
+    .worksCont2Sec {
+        width: 100%;
+        flex-direction: row-reverse;
+    }
+
+    .worksContButt {
+        display: none;
+        width: 0%;
+    }
+
+    .worksContDis {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .worksText3 {
+        width: 100%;
+    }
+
+    .worksText3 h1 {
+        width: 100%;
+        height: 13%;
+        font-size: 16px;
+    }
+
+    .worksText3 p {
+        font-size: 10px;
+        height: 61%;
+    }
+
+    .body3Cart1 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .body3Cart2 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .body3CartCont {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .body3Cont1 h1 {
+        font-size: 30px;
+    }
+
+    .loaderIcon {
+        top: 18.5%;
+        left: 69%;
+    }
+
+    .MicIcon {
+        left: 17%;
+        top: 61%;
+    }
+
+    .cartCont1 {
+        height: 50%;
+        justify-content: center;
+    }
+
+    .cartCont1 h1 {
+        font-size: 10px;
+        width: 80%;
+    }
+
+    .cartCont1 p {
+        font-size: 8px;
+    }
+
+    .cartContBut1 {
+        width: 90%;
+    }
+
+    .cartContBut1 button {
+        font-size: 10px;
+    }
+
+    .body3cont2sec {
+        width: 100%;
+    }
+
+    .body3cont2text {
+        width: 60%;
+    }
+    
+    
+
+    .body3cont2text h1 {
+        font-size: 14px;
+        height: 4%;
+    }
+    .body3cont2text p {
+        height: 40%;
+        font-size: 10px;
+    }
+
+    .body4ContSecText h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 26px;
+    }
+
+    .body4GridSec {
+        height: 90%;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    .body4Icon {
+        width: 27%;
+        font-size: 1.8rem;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 10px;
+    }
+
+    .Body4GridCart p {
+        font-size: 10px;
+    }
+
+    .body5Sec {
+        width: 90%;
+    }
+
+    .body5Sec h1 {
+        color: #272727;
+        font-size: 25px;
+        text-align: center;
+        height: 6%;
+    }
+
+    .body5Sec p {
+        color: #272727;
+        font-size: 14px;
+        text-align: center;
+        height: 12%;
+    }
+
+    .body5Cont {
+        height: 130vh;
+    }
+
+    .body5CartSec {
+        flex-direction: column;
+    }
+
+    .leftSide {
+        width: 100%;
+        height: 60%;
+    }
+
+    .rightSide {
+        width: 100%;
+        height: 40%;
+        margin-top: 5%;
+        align-items: center;
+    }
+    .leftSideCart1,
+    .leftSideCart2 {
+        width: 47%;
+    }
+
+    .leftSideCart1 img {
+        top: 13vh;
+        width: 20%;
+    }
+
+    .leftSideCart2 img {
+        top: 13vh;
+        width: 20%;
+    }
+
+    .leftSide h1 {
+        font-size: 14px;
+        margin-top: 6vh;
+    }
+    .leftSide h1 {
+        font-size: 8px;
+    }
+
+    .leftSide span {
+        width: 90%;
+        height: 70%;
+        font-size: 7px;
+    }
+
+    .r-1,
+    .r-2,
+    .r-3,
+    .r-4 {
+        width: 65%;
+    }
+
+    .r-1 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-2 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-3 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .oneBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .twoBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .rowText h1 {
+        font-size: 16px;
+    }
+
+    .rowText p {
+        font-size: 10px;
+    }
+
+    .rowText {
+        width: 60%;
+    }
+
+    .footerContendTop {
+        flex-direction: column;
+    }
+
+    .footerTopLogos {
+        width: 100%;
+    }
+
+    .footerContMainAlign {
+        width: 90%;
+    }
+
+    .footerTopLeft {
+        width: 100%;
+        align-items: center;
+    }
+
+    .footerTopRight {
+        width: 100%;
+    }
+
+    .footerTopRight ul {
+        width: 100%;
+        height: 75%;
+        display: flex;
+        list-style: none;
+        justify-content: end;
+        align-items: center;
+        font-size: 7px;
+        color: white;
+    }
+
+    .footerContendEnd {
+        font-size: 10px;
+    }
+
+    .footerContEnd p {
+        font-size: 5px;
+    }
+
+    .FooterImg {
+        width: 30%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+}
+
+@media screen and (min-width:320px) and (max-width: 374px) {
+    .heroContend {
+        height: 100%;
+        width: 90%;
+    }
+
+    .headerLogo {
+        width: 40%;
+    }
+
+    .headerButtons {
+        width: 50%;
+        height: 60%;
+        font-size: 9px;
+    }
+
+    main h1 {
+        width: 100%;
+        text-align: center;
+        height: 25%;
+        font-size: 25px;
+    }
+
+    main p {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .horizontalBreak {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        height: 5%;
+    }
+
+    .horizontalBreak h3 {
+        font: 1.3rem;
+        color: #FFF;
+        height: 100%;
+        position: absolute;
+        top: 10%;
+        left: 34%;
+        width: 30%;
+        text-align: center;
+        background-color: black;
+    }
+
+    .line {
+        width: 100%;
+    }
+
+    .formCont {
+        width: 100%;
+    }
+
+    .input1 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .input2 {
+        width: 25%;
+        font-size: 8px;
+    }
+
+    .heroFooterButton {
+        width: 100%;
+    }
+
+    .bodyCont {
+        height: 300vh;
+    }
+
+    .bodySec {
+        width: 90%;
+        height: 98%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+
+    .BodyHeading {
+        height: 10vh;
+        display: flex;
+        align-items: center;
+    }
+
+    .bodyContend {
+        width: 100%;
+        height: 270vh;
+        display: grid;
+        gap: 30px 30px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(6, 1fr);
+    }
+
+    .pagination {
+        height: 10vh;
+        margin-top: 15vh;
+        /* margin-bottom: 5vh; */
+    }
+
+    .body2Contend {
+        width: 90%;
+        position: relative;
+    }
+
+    .three {
+        font-size: 10px;
+    }
+
+    .worksCont {
+        width: 100%;
+    }
+
+    .worksCont1 img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksText1 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 15px;
+    }
+
+    .worksText1 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+    .worksCont2Sec img {
+        width: 40%;
+        height: auto;
+    }
+
+    .worksContDis img {
+        width: 40%;
+        height: auto;
+    }
+
+
+    .worksText1 {
+        width: 60%;
+    }
+
+
+    .worksText2 {
+        width: 66%;
+    }
+
+    .worksText2 h1 {
+        width: 100%;
+        height: 18%;
+        font-size: 18px;
+    }
+
+    .worksText2 p {
+        font-size: 10px;
+        height: 80%;
+    }
+
+
+    .worksCont2Sec {
+        width: 100%;
+        flex-direction: row-reverse;
+    }
+
+    .worksContButt {
+        display: none;
+        width: 0%;
+    }
+
+    .worksContDis {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .worksText3 {
+        width: 100%;
+    }
+
+    .worksText3 h1 {
+        width: 100%;
+        height: 13%;
+        font-size: 14px;
+    }
+
+    .worksText3 p {
+        font-size: 10px;
+        height: 61%;
+    }
+
+    .body3Cart1 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .body3Cart2 {
+        width: 45%;
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .body3CartCont {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .body3Cont1 h1 {
+        font-size: 30px;
+    }
+
+    .loaderIcon {
+        top: 18.5%;
+        left: 69%;
+    }
+
+    .MicIcon {
+        left: 17%;
+        top: 61%;
+    }
+
+    .cartCont1 {
+        height: 50%;
+        justify-content: center;
+    }
+
+    .cartCont1 h1 {
+        font-size: 10px;
+        width: 80%;
+    }
+
+    .cartCont1 p {
+        font-size: 8px;
+    }
+
+    .cartContBut1 {
+        width: 90%;
+    }
+
+    .cartContBut1 button {
+        font-size: 10px;
+    }
+
+    .body3cont2sec {
+        width: 100%;
+    }
+
+    .body3cont2text {
+        width: 55%;
+    }
+    
+    
+
+    .body3cont2text h1 {
+        font-size: 14px;
+        height: 4%;
+    }
+    .body3cont2text p {
+        height: 40%;
+        font-size: 10px;
+    }
+
+    .body4ContSecText h1 {
+        width: 100%;
+        text-align: center;
+        font-size: 26px;
+    }
+
+    .body4GridSec {
+        height: 90%;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    .body4Icon {
+        width: 27%;
+        font-size: 1.8rem;
+    }
+
+    .Body4GridCart h1 {
+        font-size: 9px;
+    }
+
+    .Body4GridCart p {
+        font-size: 8px;
+    }
+
+    .body5Sec {
+        width: 90%;
+        height: 100%;
+    }
+
+    .body5Sec h1 {
+        color: #272727;
+        font-size: 25px;
+        text-align: center;
+        height: 6%;
+    }
+
+    .body5Sec p {
+        color: #272727;
+        font-size: 14px;
+        text-align: center;
+        height: 6%;
+    }
+
+    .body5Cont {
+        height: 80vh;
+    }
+
+    .body5CartSec {
+        flex-direction: column;
+    }
+
+    .leftSide {
+        width: 100%;
+        height: 60%;
+    }
+
+    .rightSide {
+        width: 100%;
+        height: 40%;
+        margin-top: 5%;
+        align-items: center;
+    }
+    .leftSideCart1,
+    .leftSideCart2 {
+        width: 47%;
+    }
+
+    .leftSideCart1 img {
+        top: 7vh;
+        width: 20%;
+    }
+
+    .leftSideCart2 img {
+        top: 7vh;
+        width: 20%;
+    }
+
+    .leftSide h1 {
+        font-size: 9px;
+        margin-top: 6vh;
+    }
+    .leftSide p {
+        font-size: 9px;
+        height: 10%;
+    }
+
+    .leftSide span {
+        width: 90%;
+        font-size: 7px;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: 15px;
+    }
+
+    .r-1,
+    .r-2,
+    .r-3,
+    .r-4 {
+        width: 65%;
+    }
+
+    .r-1 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-2 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .r-3 img {
+        width: 15%;
+        height: auto;
+    }
+
+    .oneBut {
+        height: 4vh;
+        width: 50%;
+    }
+
+    .twoBut {
+        height: 100%;
+        width: 50%;
+    }
+
+    .rowText h1 {
+        font-size: 16px;
+    }
+
+    .rowText p {
+        font-size: 10px;
+    }
+
+    .rowText {
+        width: 60%;
+    }
+
+    .footerContendTop {
+        flex-direction: column;
+    }
+
+    .footerTopLogos {
+        width: 100%;
+    }
+
+    .footerContMainAlign {
+        width: 90%;
+    }
+
+    .footerTopLeft {
+        width: 100%;
+        align-items: center;
+    }
+
+    .footerTopRight {
+        width: 100%;
+    }
+
+    .footerTopRight ul {
+        width: 100%;
+        height: 75%;
+        display: flex;
+        list-style: none;
+        justify-content: end;
+        align-items: center;
+        font-size: 7px;
+        color: white;
+    }
+
+    .footerContEnd {
+        flex-direction: column-reverse;
+    }
+    .footerContEnd p {
+        font-size: 5px;
+        text-align: center;
+    }
+
+    .FooterImg {
+        width: 30%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+}
